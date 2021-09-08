@@ -3,3 +3,5 @@
 <p>Baza de date e alcatuită din 5 entități indepedente ( curs_bce, profesor_bce,  grupa_bce, sala_bce, bursa_bce ),2 entități depedente ( student_bce, examinare_bce )  și  4 tabele asociative ( sustine_bce, preda_bce, supravegheaza_bce, se_tine_in_bce ). Atat relațile dintre aceste tabele cât și atributele fiecareia în parte sunt prezentate in diagrama conceptuală / ER de mai jos.<p>
   
   ![diagrama ERD](https://github.com/BarbuCerbulescu/Arhiva_FMI_2019-2021/blob/main/Proiect%20BD/erd.png)
+  
+  <p>Enunturile query-urilor și conținutul tabelelor se regăsesc în prezentarea .docx din acest folder.<p>
